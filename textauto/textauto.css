@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+.container{
+    color:bisque
+}
